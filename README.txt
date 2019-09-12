@@ -1,11 +1,11 @@
 === README ===
 
-Logs for: a80cf5d88e028fa6a72b37fe50795e70bb6e3559
+Logs for: cb41b9e70e6fbd1cb603bb9ba4372fbb8ae87b20
 
 Branch tested: master
 
-Previous commit: d09628385443574b556f2beaaba7588a2a5fb4c0
+Previous commit: ca2589f3bbad1e151abbb293d4c43a87b7a4d5ec
 
-Patch: <http://sourceware.org/git/?p=binutils-gdb.git;a=commitdiff;h=a80cf5d88e028fa6a72b37fe50795e70bb6e3559>
+Patch: <http://sourceware.org/git/?p=binutils-gdb.git;a=commitdiff;h=cb41b9e70e6fbd1cb603bb9ba4372fbb8ae87b20>
 
 The XFAIL tests that were ignored can be found in the xfail* files.
