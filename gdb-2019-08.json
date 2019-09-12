@@ -876,3 +876,5 @@
 ---
 {"source_commit": "0cf9feb996cb32939840b13073a49310b1fd71e0", "source_branch": "master", "pass_count": 55356, "fail_count": 1289, "arch": "x86_64", "version": "8.3.50.20190807-git", "year_month": "2019-08", "osver": "Fedora-x86_64-m64", "bunsen_testlogs_branch": "gdb/testlogs-2019-08", "bunsen_testruns_branch": "gdb/testruns-2019-08-Fedora-x86_64-m64", "bunsen_commit_id": "ab7687c482e769ef6f606740c016a10341fc10e6"}
 ---
+{"source_commit": "0eba165a74cdb039a5e6ed86e0396d80f68ca22c", "source_branch": "master", "pass_count": 55335, "fail_count": 1289, "arch": "x86_64", "version": "8.3.50.20190801-git", "year_month": "2019-08", "osver": "Fedora-x86_64-m64", "bunsen_testlogs_branch": "gdb/testlogs-2019-08", "bunsen_testruns_branch": "gdb/testruns-2019-08-Fedora-x86_64-m64", "bunsen_commit_id": "881f976d867a135bb3654bb2fcb03fe9b0e3660d"}
+---
