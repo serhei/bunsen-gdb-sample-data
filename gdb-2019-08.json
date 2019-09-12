@@ -2034,3 +2034,5 @@
 ---
 {"source_commit": "7ba913dcdf2f94cbd501d763f0fc55a46d10331c", "source_branch": "master", "pass_count": 51723, "fail_count": 190, "arch": "aarch64", "version": "8.3.50.20190813-git", "year_month": "2019-08", "osver": "Ubuntu-Aarch64-m64", "bunsen_testlogs_branch": "gdb/testlogs-2019-08", "bunsen_testruns_branch": "gdb/testruns-2019-08-Ubuntu-Aarch64-m64", "bunsen_commit_id": "6779ba2416fe5eced29f256801525ea55ca97e20"}
 ---
+{"source_commit": "a80cf5d88e028fa6a72b37fe50795e70bb6e3559", "source_branch": "master", "pass_count": 51717, "fail_count": 188, "arch": "aarch64", "version": "8.3.50.20190805-git", "year_month": "2019-08", "osver": "Ubuntu-Aarch64-m64", "bunsen_testlogs_branch": "gdb/testlogs-2019-08", "bunsen_testruns_branch": "gdb/testruns-2019-08-Ubuntu-Aarch64-m64", "bunsen_commit_id": "3d96764439c93cadcf23173fc652ffacd6b472ec"}
+---
