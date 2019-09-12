@@ -1504,3 +1504,5 @@
 ---
 {"source_commit": "6405cd73c0d160d9b6f82744bb5510b3e101ad59", "source_branch": "master", "pass_count": 48645, "fail_count": 374, "arch": "armhf", "version": "8.3.50.20190813-git", "year_month": "2019-08", "osver": "Ubuntu-ARMhf-m32", "bunsen_testlogs_branch": "gdb/testlogs-2019-08", "bunsen_testruns_branch": "gdb/testruns-2019-08-Ubuntu-ARMhf-m32", "bunsen_commit_id": "1f43f5e72214639d95764bba21c7cbe392c8aa94"}
 ---
+{"source_commit": "b1c896b365f2dbcd14145a88d103623244cf0fb0", "source_branch": "master", "pass_count": 48636, "fail_count": 372, "arch": "armhf", "version": "8.3.50.20190814-git", "year_month": "2019-08", "osver": "Ubuntu-ARMhf-m32", "bunsen_testlogs_branch": "gdb/testlogs-2019-08", "bunsen_testruns_branch": "gdb/testruns-2019-08-Ubuntu-ARMhf-m32", "bunsen_commit_id": "32d3ffe36b2b0563df7fd291b479401bee0c0fa8"}
+---
